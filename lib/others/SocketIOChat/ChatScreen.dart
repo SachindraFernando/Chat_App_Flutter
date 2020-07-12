@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter_demos/others/SocketIOChat/ChatBubble.dart';
-import 'package:flutter_demos/others/SocketIOChat/ChatMessageModel.dart';
-import 'package:flutter_demos/others/SocketIOChat/Global.dart';
-import 'package:flutter_demos/others/SocketIOChat/SocketUtils.dart';
+import 'package:chat_app/others/SocketIOChat/ChatBubble.dart';
+import 'package:chat_app/others/SocketIOChat/ChatMessageModel.dart';
+import 'package:chat_app/others/SocketIOChat/Global.dart';
+import 'package:chat_app/others/SocketIOChat/SocketUtils.dart';
 
 import 'ChatMessageModel.dart';
 import 'ChatTitle.dart';
